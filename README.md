@@ -26,10 +26,12 @@ Welcome to my collection of small **Python-based projects** that help me practic
 3. Open terminal and run:
 ```bash
 python filename.py
+```
 
-## 💻 Why This Repo?
-his is my personal journey to become strong in Python & DSA 💪
-I’ll keep adding new projects as I learn more (sorting, recursion, etc.)
+## 💡 Why This Repo?
+
+This is my personal journey to become strong in Python & DSA 💪  
+I’ll keep adding new projects as I learn more (sorting, recursion, etc.)  
 Follow my progress — more cool stuff coming soon ✨
 
 ## 🙋‍♀️ About Me
@@ -50,5 +52,6 @@ Follow my progress — more cool stuff coming soon ✨
    git add README.md
    git commit -m "Updated full README with project descriptions"
    git push
+   ```
 
 
